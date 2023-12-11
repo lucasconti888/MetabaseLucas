@@ -1,4 +1,4 @@
-# MetabaseLucas
+# Gráfico de pipeline na Metabase
 
 ![image](https://github.com/lucasconti888/MetabaseLucas/assets/99270135/64cba32e-15ed-4d23-9ea5-adbb732202a8)
 
